@@ -22,4 +22,4 @@ The 2026 primary season recently concluded, with both political parties facing i
 
 Primary elections are, in part, guided by the preferences and will of the political elite. Its extent, and its likelihood to persist, could dictate intra-party politics in high-stakes races.
 
-[Read the article →](https://votehub.com/2026/06/15/endorsements-probably-still-matter-in-primary-elections-heres-why-thats-important/)
+[Read Here](https://votehub.com/2026/06/15/endorsements-probably-still-matter-in-primary-elections-heres-why-thats-important/)
