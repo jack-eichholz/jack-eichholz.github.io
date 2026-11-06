@@ -1,96 +1,74 @@
 {
-  "cv": {
-    "name": "Jack Eichholz",
-    "label": "PhD Student in Political Science, The George Washington University",
-    "email": "jack.eichholz@gwu.edu",
-    "address": {
-      "city": "Washington",
-      "region": "DC"
+  "cv":
+    {
+      "name": "Jack Eichholz",
+      "label": "PhD Student in Political Science, The George Washington University",
+      "email": "jack.eichholz@gwu.edu",
+      "address": { "city": "Washington", "region": "DC" },
+      "sections":
+        {
+          "Education":
+            [
+              {
+                "institution": "The George Washington University",
+                "location": "Washington, DC",
+                "studyType": "PhD Student: Political Science",
+                "start_date": "2023-08",
+                "highlights": ["American Politics Major, Statistical Methods Minor"],
+              },
+              {
+                "institution": "Truman State University",
+                "location": "Kirksville, MO",
+                "studyType": "Bachelor of Arts: Political Science",
+                "start_date": "2019-08",
+                "end_date": "2023-05",
+              },
+            ],
+          "Publications":
+            [
+              {
+                "title": "The Incumbent’s Dilemma: Incumbent Ideology and its Effect on Primary Election Performance in the United States House of Representatives from 2000 to 2020.",
+                "authors": ["Jack Eichholz"],
+                "publisher": "Michigan Journal of Political Science (Undergraduate Research Journal)",
+                "releaseDate": "2022",
+                "summary": "Fall 2022.",
+              },
+            ],
+          "Projects":
+            [
+              {
+                "name": "VoteHub 2026 Endorsement Tracker",
+                "url": "https://votehub.com/2026-endorsements",
+                "summary": "I maintain a publicly accessible database of all notable party elite endorsements in the 2026 U.S. House primary elections. Using Wikipedia page view data and officeholder “bonus” scores, I track where party elites are directing their support across primary contests nationwide in real time.",
+              },
+            ],
+          "Research in Progress":
+            [
+              {
+                "bullet": "**What Happens When the Party Decides? The Effect of Party Control of Primary Elections**\n\nUsing a large data set of contribution history to identify party-favorite candidates and employing a regression discontinuity design, I conduct a causal investigation into how party-supported candidates perform after they win the primary election. I find little evidence for candidates who receive support from parties in the primary doing any better in general elections compared to candidates who receive no support.",
+              },
+              {
+                "bullet": "**Primed for Success: Party Elite Endorsement Efficacy in Open-Seat U.S. House Primary Elections**\n\nI assemble a comprehensive data set of all endorsements made in open-seat primary elections for the U.S. House in the 2024 election. Using Wikipedia page views to assess partisan elite influence I examine if endorsements from more influential elites translate into higher vote share.",
+              },
+            ],
+          "Conferences and Presentations":
+            [
+              { "label": "2024, 2026", "details": "Annual Meeting of the American Political Science Association" },
+              { "label": "2026", "details": "Annual Meeting of the Southern Political Science Association" },
+              { "label": "2026", "details": "Junior American Americanist Workshop Series" },
+              { "label": "2025", "details": "The George Washington University Second Year Paper Workshop" },
+              { "label": "2025, 2026", "details": "Pi Sigma Alpha Research Conference Discussant" },
+            ],
+          "Teaching Experience":
+            [
+              { "label": "Fall 2026", "details": "Teaching Assistant — Legislative Politics, The George Washington University" },
+              {
+                "label": "Fall 2023 – Spring 2026",
+                "details": "Teaching Assistant — Introduction to American Politics, The George Washington University",
+              },
+            ],
+          "Skills": [{ "name": "Tools and Languages", "keywords": "R, LaTeX, AI tools for coding, Slack" }],
+        },
+      "phone": "515-318-3934",
     },
-    "sections": {
-      "Education": [
-        {
-          "institution": "The George Washington University",
-          "location": "Washington, DC",
-          "studyType": "PhD Student: Political Science",
-          "start_date": "2023-08",
-          "highlights": [
-            "American Politics Major, Statistical Methods Minor"
-          ]
-        },
-        {
-          "institution": "Truman State University",
-          "location": "Kirksville, MO",
-          "studyType": "Bachelor of Arts: Political Science",
-          "start_date": "2019-08",
-          "end_date": "2023-05"
-        }
-      ],
-      "Publications": [
-        {
-          "title": "The Incumbent’s Dilemma: Incumbent Ideology and its Effect on Primary Election Performance in the United States House of Representatives from 2000 to 2020.",
-          "authors": [
-            "Jack Eichholz"
-          ],
-          "publisher": "Michigan Journal of Political Science (Undergraduate Research Journal)",
-          "releaseDate": "2022",
-          "summary": "Fall 2022."
-        }
-      ],
-      "Projects": [
-        {
-          "name": "VoteHub 2026 Endorsement Tracker",
-          "url": "https://votehub.com/2026-endorsements",
-          "summary": "I maintain a publicly accessible database of all notable party elite endorsements in the 2026 U.S. House primary elections. Using Wikipedia page view data and officeholder “bonus” scores, I track where party elites are directing their support across primary contests nationwide in real time."
-        }
-      ],
-      "Research in Progress": [
-        {
-          "bullet": "**What Happens When the Party Decides? The Effect of Party Control of Primary Elections**\n\nUsing a large data set of contribution history to identify party-favorite candidates and employing a regression discontinuity design, I conduct a causal investigation into how party-supported candidates perform after they win the primary election. I find little evidence for candidates who receive support from parties in the primary doing any better in general elections compared to candidates who receive no support."
-        },
-        {
-          "bullet": "**Primed for Success: Party Elite Endorsement Efficacy in Open-Seat U.S. House Primary Elections**\n\nI assemble a comprehensive data set of all endorsements made in open-seat primary elections for the U.S. House in the 2024 election. Using Wikipedia page views to assess partisan elite influence I examine if endorsements from more influential elites translate into higher vote share."
-        }
-      ],
-      "Conferences and Presentations": [
-        {
-          "label": "2024, 2026",
-          "details": "Annual Meeting of the American Political Science Association"
-        },
-        {
-          "label": "2026",
-          "details": "Annual Meeting of the Southern Political Science Association"
-        },
-        {
-          "label": "2026",
-          "details": "Junior American Americanist Workshop Series"
-        },
-        {
-          "label": "2025",
-          "details": "The George Washington University Second Year Paper Workshop"
-        },
-        {
-          "label": "2025, 2026",
-          "details": "Pi Sigma Alpha Research Conference Discussant"
-        }
-      ],
-      "Teaching Experience": [
-        {
-          "label": "Fall 2026",
-          "details": "Teaching Assistant — Legislative Politics, The George Washington University"
-        },
-        {
-          "label": "Fall 2023 – Spring 2026",
-          "details": "Teaching Assistant — Introduction to American Politics, The George Washington University"
-        }
-      ],
-      "Skills": [
-        {
-          "name": "Tools and Languages",
-          "keywords": "R, LaTeX, AI tools for coding, Slack"
-        }
-      ]
-    },
-    "phone": "515-318-3934"
-  }
 }
