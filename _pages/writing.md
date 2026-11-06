@@ -13,7 +13,7 @@ nav_order: 3
 
 The 2026 primary season recently concluded, with both political parties facing intraparty conflict. What can endorsements from elected officials tell us about who prevailed in those contests, and the 2028 presidential election?
 
-[Read the article →](https://votehub.com/2026/10/14/who-won-the-2026-endorsement-wars/)
+[Read Here](https://votehub.com/2026/10/14/who-won-the-2026-endorsement-wars/)
 
 ---
 
