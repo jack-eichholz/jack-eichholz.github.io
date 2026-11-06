@@ -33,8 +33,4 @@
 @use "typograms";
 
 // Site accent color.
-:root,
-html[data-theme="dark"] {
-  --global-theme-color: #384fff;
-  --global-hover-color: #384fff;
-}
+@use "site-accent";
