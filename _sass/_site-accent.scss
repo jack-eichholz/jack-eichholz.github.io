@@ -3,3 +3,9 @@ html[data-theme="dark"] {
   --global-theme-color: #04007d;
   --global-hover-color: #04007d;
 }
+
+// Full name in the homepage heading and navigation.
+.post-header > h1.post-title,
+.navbar-brand.title {
+  font-weight: 700 !important;
+}
