@@ -2,7 +2,6 @@
 layout: page
 title: Writing
 permalink: /writing/
-description: Analysis of political parties, congressional primaries, and elite endorsements.
 nav: true
 nav_order: 3
 ---
