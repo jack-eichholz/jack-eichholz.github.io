@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jack-eichholz.github.io/sitemap.xml
+Sitemap: https://jackeichholz.com/sitemap.xml
