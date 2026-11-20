@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Political Science · The George Washington University
 
 profile:
   align: right
